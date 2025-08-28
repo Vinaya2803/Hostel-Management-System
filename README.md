@@ -49,13 +49,13 @@ npm run dev
 
 ## Login Details
 - AdminLogin
-    - Kranti@gmail.com
+    - kranti@gmail.com
     - Password: 123456789
       
-    - Vinaya@gmail.com
+    - vinaya@gmail.com
     - Password: 123456789
 - Login
-    - Shraddha@gmail.com
+    - shraddha@gmail.com
     - Password: 12345678
 
 
