@@ -44,11 +44,11 @@ npm run dev
 
 ## Login Details
 - Student Login
-    1.kranti@gmail.com
-      Password: 123456789
+     - kranti@gmail.com
+     - Password: 123456789
       
-    2.vinaya@gmail.com
-      Password: 123456789
+     - vinaya@gmail.com
+     - Password: 123456789
       
 - Admin Login
     - shraddha@gmail.com
