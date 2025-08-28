@@ -27,7 +27,7 @@ cd client
 npm i
 ```
 ```sh
-cd ../server
+cd ../backend
 npm i
 ```
 
