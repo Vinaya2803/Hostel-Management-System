@@ -48,13 +48,13 @@ npm run dev
 ```
 
 ## Login Details
-- AdminLogin
+- Student Login
     - kranti@gmail.com
     - Password: 123456789
       
     - vinaya@gmail.com
     - Password: 123456789
-- Login
+- Admin Login
     - shraddha@gmail.com
     - Password: 12345678
 
