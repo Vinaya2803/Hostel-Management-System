@@ -99,26 +99,24 @@ npm run dev
 
 ---
 ## 📸 Screenshots
-![Student Screenshot 1](1.png)
-### 🟦 Student Portal
+![Home Page](Screenshots/1.png)
 
-![Student Screenshot 1](s1.png)
-![Student Screenshot 2](s2.png)
-![Student Screenshot 3](s3.png)
-![Student Screenshot 4](s4.png)
+## 📸 Admin Portal Screenshots
 
+![Admin Screenshot 1](Screenshots/a1.png)
+![Admin Screenshot 2](Screenshots/a2.png)
+![Admin Screenshot 3](Screenshots/a3.png)
+![Admin Screenshot 4](Screenshots/a4.png)
+![Admin Screenshot 5](Screenshots/a5.png)
+![Admin Screenshot 6](Screenshots/a6.png)
 
----
+## 🎓 Student Portal Screenshots
 
-### 🟪 Admin Portal
+![Student Screenshot 1](Screenshots/s1.png)
+![Student Screenshot 2](Screenshots/s2.png)
+![Student Screenshot 3](Screenshots/s3.png)
+![Student Screenshot 4](Screenshots/s4.png)
 
-![Admin Screenshot 1](a1.png)
-![Admin Screenshot 2](a2.png)
-![Admin Screenshot 3](a3.png)
-![Admin Screenshot 4](a4.png)
-![Admin Screenshot 5](a5.png)
-![Admin Screenshot 6](a6.png)
----
 
 
 
