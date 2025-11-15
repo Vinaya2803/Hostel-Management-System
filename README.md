@@ -97,4 +97,31 @@ npm run dev
 |----------------------|------------|
 | shraddha24@gmail.com | 123456789  |
 
+---
+## 📸 Screenshots
+![Student Screenshot 1](1.png)
+### 🟦 Student Portal
+
+![Student Screenshot 1](s1.png)
+![Student Screenshot 2](s2.png)
+![Student Screenshot 3](s3.png)
+![Student Screenshot 4](s4.png)
+
+
+---
+
+### 🟪 Admin Portal
+
+![Admin Screenshot 1](a1.png)
+![Admin Screenshot 2](a2.png)
+![Admin Screenshot 3](a3.png)
+![Admin Screenshot 4](a4.png)
+![Admin Screenshot 5](a5.png)
+![Admin Screenshot 6](a6.png)
+---
+
+
+
+
+
 
