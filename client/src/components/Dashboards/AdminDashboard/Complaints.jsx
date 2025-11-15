@@ -6,8 +6,7 @@ function Complaints() {
   const getComplaints = async () => {
     const hostel = JSON.parse(localStorage.getItem("hostel"))._id;
     const response = await fetch(
-      `https://hostel-management-system-oghr.onrender.com
-/api/complaint/hostel`,
+      `http://localhost:3000/api/complaint/hostel`,
       {
         method: "POST",
         headers: {
@@ -56,7 +55,7 @@ function Complaints() {
 
   const dismissComplaint = async (id) => {
     const response = await fetch(
-      "https://hostel-management-system-oghr.onrender.com/api/complaint/resolve/",
+      "http://localhost:3000/api/complaint/resolve/",
       {
         method: "POST",
         headers: {

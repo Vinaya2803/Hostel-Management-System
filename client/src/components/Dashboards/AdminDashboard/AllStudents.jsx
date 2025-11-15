@@ -14,7 +14,7 @@ function AllStudents() {
   const [allStudents, setallStudents] = useState([]);
 
   const deleteStudent = async (id) => {
-    const res = await fetch("https://hostel-management-system-oghr.onrender.com/api/student/delete-student", {
+    const res = await fetch("http://localhost:3000/api/student/delete-student", {
       method: "DELETE",
       headers: {
         "Content-Type": "application/json",

@@ -21,12 +21,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
-  },
-  "engines": {
-  "node": "18.x"
-},
-  "scripts": {
-  "start": "node index.js"
-}
+  }
 
 }
