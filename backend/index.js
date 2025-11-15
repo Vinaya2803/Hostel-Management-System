@@ -4,7 +4,7 @@ const connectDB = require('./utils/conn')
 const cors = require('cors')
 
 const app = express()
-const port = 3000
+const port = process.env.PORT || 3000;
 
 connectDB();
 
@@ -19,6 +19,16 @@ app.use('/api/complaint', require('./routes/complaintRoutes'));
 app.use('/api/invoice', require('./routes/invoiceRoutes'));
 app.use('/api/messoff', require('./routes/messoffRoutes'));
 app.use('/api/request', require('./routes/requestRoutes'));
+
+const path = require("path");
+
+// Serve frontend
+app.use(express.static(path.join(__dirname, "dist")));
+
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "dist", "index.html"));
+});
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
