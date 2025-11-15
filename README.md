@@ -103,7 +103,6 @@ npm run dev
 
 ## 📸 Admin Portal Screenshots
 
-![Admin Screenshot 1](screenshots/a1.png)
 ![Admin Screenshot 2](screenshots/a2.png)
 ![Admin Screenshot 3](screenshots/a3.png)
 ![Admin Screenshot 4](screenshots/a4.png)
